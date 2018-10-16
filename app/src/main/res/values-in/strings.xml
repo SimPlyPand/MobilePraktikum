@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplikasiKu</string>
+    <string name="fill_in_this_form_to_register_as_user">Isi Form Ini Untuk Mendaftar Sebagai User </string>
+    <string name="fullname">Nama Lengakap</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="email_address">Alamat Email</string>
+    <string name="emailaddress">Alamat Email</string>
+    <string name="phone_number">Nomor Telepon</string>
+    <string name="password">password</string>
+    <string name="password1">Password</string>
+    <string name="phone_number1">Nomor Telepon</string>
+    <string name="i_have_read_and_agree_the_terms">Saya Telah Membaca dan Menyetujui persyaratan</string>
+    <string name="simpan">Simpan</string>
+</resources>

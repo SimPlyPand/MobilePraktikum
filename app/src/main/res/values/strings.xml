@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fill_in_this_form_to_register_as_user">Fill in this form to register as user</string>
+    <string name="fullname">FullName</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="emailaddress">EmailAddress</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">password</string>
+    <string name="password1">Password</string>
+    <string name="phone_number1">Phone Number</string>
+    <string name="i_have_read_and_agree_the_terms">I Have Read and agree the terms</string>
+    <string name="simpan">Simpan</string>
+    <string name="st">set</string>
+</resources>
